@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "I forgot",
+        "link": "https://www.youtube.com/@Markiplier"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "John",
+        "link": "https://www.youtube.com/@Markiplier"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Like for helper",
+        "link": "https://www.youtube.com/@Markiplier"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Trial like for trial helper",
+        "link": "https://www.youtube.com/@Markiplier"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "UnyunGD",
+        "link": "https://www.youtube.com/@Markiplier"
     }
 ]
